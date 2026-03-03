@@ -1,3 +1,6 @@
+# Overview
+This project is about to compare the efficiency of using mcp or skill when reading a jdbc log metrics.
+
 ### Code Style & Formatting
 
 **Functions & Architecture**
