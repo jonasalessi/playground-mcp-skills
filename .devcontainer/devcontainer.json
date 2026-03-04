@@ -1,0 +1,8 @@
+{
+    "name": "Node.js & TypeScript with OpenCode",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "features": {},
+    "remoteUser": "node"
+}
