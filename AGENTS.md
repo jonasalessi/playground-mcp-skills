@@ -23,3 +23,6 @@ This project is about to compare the efficiency of using mcp or skill when readi
 - Build: `npm run build`
 - Format: `npm run format`
 - Lint: `npm run lint`
+
+# ALWAYS
+- In your output messages, you must clearly state whether an MCP server or a Skill was used to complete the task.
